@@ -8,5 +8,6 @@ db.sqlite3
 db.sqlite3-journal
 media
 venv
+/static
 
 # End of https://www.gitignore.io/api/django
