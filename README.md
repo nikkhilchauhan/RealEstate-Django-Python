@@ -1,4 +1,4 @@
-# Real Estate Project Using Djanog
+# Real Estate Project Using Django
 
 ## You can search/add/remove/register/login
 
