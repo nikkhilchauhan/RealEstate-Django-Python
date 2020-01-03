@@ -4,4 +4,4 @@
 
 ### Also a fully customized Djanog admin panel
 
-![Alt text](https://github.com/nikkhil0018/RealEstate-Django-Python/blob/master/Screenshot.png 'Optional title')
+![Alt text](https://github.com/nikkhil0018/RealEstate-Django-Python/blob/master/ScreenshotHome.png 'Optional title')
